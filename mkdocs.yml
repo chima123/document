@@ -1,0 +1,19 @@
+site_name: fengwei document
+
+nav:
+  - Home: index.md
+  - as-houyi: as-houyi/中间件/index.md
+
+theme:
+  name: readthedocs
+  font: false # Remove the Google Roboto fonts
+
+extra:
+  version: 1.0
+
+markdown_extensions:
+  - toc
+  - admonition
+  - def_list
+
+copyright: Copyright &copy; 2024-. Maintained by <b>Middleware Group, Software R & D Dept., ADS R & D Center</b>. All rights reserved.
