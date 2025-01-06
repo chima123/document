@@ -2,6 +2,8 @@
 
 ---
 
+- [交叉编译三方库][Cross Compiling]
 - [camera][camera]
 
-[camera]: as-houyi/中间件/camera.md
+[Cross Compiling]: as-houyi/middleware/cross_compiling.md
+[camera]: as-houyi/middleware/camera.md

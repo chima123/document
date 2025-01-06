@@ -1,8 +1,8 @@
-site_name: fengwei document
+site_name: fengwei blog
 
 nav:
   - Home: index.md
-  - as-houyi: as-houyi/中间件/index.md
+  - as-houyi: as-houyi/middleware/index.md
 
 theme:
   name: readthedocs
@@ -15,5 +15,3 @@ markdown_extensions:
   - toc
   - admonition
   - def_list
-
-copyright: Copyright &copy; 2024-. Maintained by <b>Middleware Group, Software R & D Dept., ADS R & D Center</b>. All rights reserved.

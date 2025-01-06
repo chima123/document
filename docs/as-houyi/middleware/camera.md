@@ -65,3 +65,5 @@ adb push .cache/_bazel_ad/540135163923dd7d5820f3ee4b306b32/execroot/apollo/bazel
 bash hy_build.sh --os android --src ni --modules=//pylon/example/android_camera_example:android_camera
 
 adb push .cache/_bazel_ad/540135163923dd7d5820f3ee4b306b32/execroot/apollo/bazel-out/arm64-v8a-fastbuild/bin/pylon/example/android_camera_example/android_camera /data/apollo
+
+
