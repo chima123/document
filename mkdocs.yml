@@ -3,6 +3,8 @@ site_name: fengwei blog
 nav:
   - Home: index.md
   - as-houyi: as-houyi/middleware/index.md
+  - c++: c++/index.md
+  - xd: xd/index.md
 
 theme:
   name: readthedocs
